@@ -1,0 +1,14 @@
+.introduction .page-info {
+    margin: var(--space-medium);
+    padding: var(--space-medium);
+    text-align: center;
+}
+.introduction img{
+    box-sizing: border-box;
+    max-width: 120px;
+    border-radius: 50%;
+    border:  solid 2px #5C2334;
+    width: 200px;
+    height: auto;
+    margin: var(--space-medium);
+}

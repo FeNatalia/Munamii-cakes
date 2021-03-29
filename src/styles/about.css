@@ -1,0 +1,13 @@
+.about{
+    text-align: center;
+}
+
+.about .text{
+    margin: var(--space-medium);
+    padding: var(--space-medium);
+    text-align: center;
+}
+
+.about .signature{
+    font-weight: bold;
+}

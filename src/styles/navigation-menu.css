@@ -1,0 +1,16 @@
+.navigation-menu{
+    margin-bottom: var(--space-medium);
+    text-align: center;
+    color: #5A3D45;
+}
+
+.navigation-menu a{
+    padding: var(--space-small);
+    color: #5A3D45;
+    font-size: 16px;
+}
+
+.navigation-menu a:hover{
+    background-color: #5A3D45;
+    color: #DACECE;
+}

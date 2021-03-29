@@ -1,0 +1,37 @@
+.content{
+    text-align: center;
+}
+
+.content .home{
+    margin-bottom: var(--space-medium);
+}
+
+/* Galaxy Note, iPhone max */
+@media (min-width: 400px) {
+    .content .article-item{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: var(--space-big);
+    grid-row-gap: var(--space-medium);
+}
+} 
+
+/*Tablets*/
+@media (min-width: 550px) {
+    .content .article-item{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: var(--space-big);
+    grid-row-gap: var(--space-medium);
+}
+}
+
+/**/
+@media (min-width: 750px) {
+    .content .article-item{
+    /* display: grid; */
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: var(--space-big);
+    grid-row-gap: var(--space-medium);
+}
+}

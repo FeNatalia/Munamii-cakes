@@ -1,0 +1,50 @@
+[
+    {
+      "id": 9,
+      "title": "Blackberry XL",
+      "fileName": "blackberry-cake.png",
+      "price": 1000
+    },
+    {
+      "id": 10,
+      "title": "Vanilla XL",
+      "fileName": "vanilla-cake.png",
+      "price": 1000
+    },
+    {
+      "id": 11,
+      "title": "Tropical XL",
+      "fileName": "tropical-cake.png",
+      "price": 900
+    },
+    {
+      "id": 12,
+      "title": "Chocolate XL",
+      "fileName": "chocolate-cake.png",
+      "price": 950
+    },
+    {
+      "id": 13,
+      "title": "Grapefruit M",
+      "fileName": "grapefruit-cake.png",
+      "price": 700
+    },
+    {
+      "id": 14,
+      "title": "Blueberry M",
+      "fileName": "blueberry-cake.png",
+      "price": 750
+    },
+    {
+      "id": 15,
+      "title": "Vegan S",
+      "fileName": "vegan-cake.png",
+      "price": 650
+    },
+    {
+      "id": 16,
+      "title": "Oreo S",
+      "fileName": "oreo-cake.png",
+      "price": 600
+    }
+]
